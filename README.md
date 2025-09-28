@@ -1,4 +1,4 @@
-# covid19_dataet
+# covid19_dataset
 
 # COVID-19 Prediction Project
 
